@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034912826545",
+    "project_id": "renthouseappv2",
+    "storage_bucket": "renthouseappv2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034912826545:android:ebd1c7f225e9aa2fd0ce90",
+        "android_client_info": {
+          "package_name": "com.kinvibes.rentHouseAppv4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0DI5jVKhXKFTtA3Fmh95-rm0IfiewUTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

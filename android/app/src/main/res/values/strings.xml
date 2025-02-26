@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">rentHouseAppv4</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="facebook_app_id">1124451982713963</string>
+  <string name="facebook_client_token">1389087baede0f2a57b45367b9c29590</string>
+
+</resources>
